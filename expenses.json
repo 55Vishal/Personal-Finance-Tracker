@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2015-05-06",
+    "amount": 50000.0,
+    "category": "Transportation",
+    "description": "dsasd"
+  },
+  {
+    "date": "2014-02-04",
+    "amount": 10000.0,
+    "category": "Travel",
+    "description": "xyz"
+  }
+]
