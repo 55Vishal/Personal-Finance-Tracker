@@ -665,7 +665,7 @@ class FinanceTracker:
                 else:
                     print("Invalid backup number.")
             except ValueError:
-                print("Invalid input.")
+                print("Invalid input.") 
 
         elif choice == '3':
             backups = self.file_handler.list_backups()
